@@ -1,4 +1,5 @@
 flask 
-pickle
 pandas
 numpy 
+gunicorn
+pickle
